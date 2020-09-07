@@ -47,6 +47,9 @@ blockquote, q {
 		justify-content: space-around;
 		max-width: 100%;
 	}
+*{
+	box-siziing: border-box;
+}
 
 #one{
 	display: flex;
@@ -66,4 +69,9 @@ blockquote, q {
 #four{
 	display: flex;
 	flex-wrap: wrap;
+}
+
+footer{
+	display:flex;
+	text-align: center;
 }
