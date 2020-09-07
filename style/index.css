@@ -46,4 +46,24 @@ blockquote, q {
         display: flex;
 		justify-content: space-around;
 		max-width: 100%;
-    }
+	}
+
+#one{
+	display: flex;
+	flex-wrap: wrap;
+}	
+
+#two{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#three{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#four{
+	display: flex;
+	flex-wrap: wrap;
+}
