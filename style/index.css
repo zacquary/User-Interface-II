@@ -75,3 +75,11 @@ footer{
 	display:flex;
 	text-align: center;
 }
+
+@media(max-width: 800px){
+	background-color: blue;
+}
+
+@media(max-width: 500px){
+	background-color: yellow;
+}
